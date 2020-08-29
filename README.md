@@ -5,7 +5,7 @@
 ### server
 
 ```bash
-yarn dev
+cd server && npm run dev
 ```
 
 ### client
@@ -13,5 +13,5 @@ yarn dev
 任意个静态server即可，这里使用anywhere
 
 ```bash
-anywhere
+cd client && anywhere
 ```
